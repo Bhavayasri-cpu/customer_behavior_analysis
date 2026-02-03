@@ -1,4 +1,4 @@
-# customer_behavior_analysis
+# Customer_Behavior_Analysis
 
 Data Analytics Project
 
